@@ -1,0 +1,10 @@
+Toyota Corolla,2000.0,true
+Honda Civic,1800.0,false
+Ford Focus,1900.0,true
+Volkswagen Golf,2200.0,true
+Nissan Altima,2100.0,true
+Chevrolet Cruze,1950.0,true
+Hyundai Elantra,2000.0,false
+Kia Forte,1980.0,true
+Mazda 3,2050.0,false
+Subaru Impreza,2150.0,true
